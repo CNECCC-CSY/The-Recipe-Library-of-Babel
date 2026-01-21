@@ -29,7 +29,5 @@ THE RECIPIES GENERATED ARE MEANT TO BE A JOKE. DO NOT TRY THEM! DO NOT TRY THEM!
 
 # Log archives:
 Version 0.69.69
+
 Added generator and tutorial screen.
-
-
-Warning: This is still in testing! Please report any issues and bugs!

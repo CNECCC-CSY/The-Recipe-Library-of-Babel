@@ -1,7 +1,7 @@
 # The-Recipe-Library-of-Babel
 An android exclusive application that generates creative cooking recipies. Perfect for those who want to relase their creativity.
 
-### Extension to CNECCC-CSY/The Recipe Library of Babel
+# Extension to CNECCC-CSY/The Recipe Library of Babel
 
 This respiratory will experience updates on February.
 
@@ -24,10 +24,11 @@ See the datasheet below.
 3. Communication between server and client are tunnelled by ngrok, a tunnelling service for python.
 4. Please expect everything to change during Beta tests. The datasheet will be updating as versions progresses. Please report any bugs or security vulnerability in Github or get a ticket.
 
-# CISCLAIMER
+# DISCLAIMER
 THE RECIPIES GENERATED ARE MEANT TO BE A JOKE. DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! DO NOT TRY THEM! I WILL NOT TAKE UP ANY RESPONSIBILITY IF ANYTHING GOES WRONG!
 
-# Version 0.69.69
+# Log archives:
+Version 0.69.69
 Added generator and tutorial screen.
 
 
